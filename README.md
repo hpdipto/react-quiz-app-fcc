@@ -1,3 +1,12 @@
+# React Quiz App
+
+The source code of this repository is taken from freeCodeCamp' [React _ Typescript Tutorial - Build a Quiz App](https://www.youtube.com/watch?v=F2JCjVSZlG0) video.
+
+This was a nice tutorial but I think instructor complicates things a little bit. I hope I would do similar things as my version.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
